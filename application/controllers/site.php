@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     {
         public function login()
         {
-            
+            $this->load->view('admin/home');
         }
     }
     
