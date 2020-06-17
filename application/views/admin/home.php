@@ -4,10 +4,6 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="" method="post">
-        <input type="text" name="" id="" placeholder="Nama">
-        <input type="text" name="" id="" placeholder="Password">
-        <input type="submit" value="Login">
-    </form>
+    <h1>Ini Login GitHub</h1>
 </body>
 </html>
