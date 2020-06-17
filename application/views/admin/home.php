@@ -4,6 +4,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Ini Login</h1>
+    <h1>Ini Login GitHub</h1>
 </body>
 </html>
