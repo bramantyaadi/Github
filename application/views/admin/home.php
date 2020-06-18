@@ -8,7 +8,7 @@
     <div class="login">
         <h1>Login</h1>
         <form method="post" action="<?= site_url('site/cekLogin') ?>"> 
-            <input type="text" name="u" placeholder="Username"/>
+            <input type="text" name="u" placeholder="Username" />
             <input type="password" name="p" placeholder="Password" />
             <button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
         </form>
