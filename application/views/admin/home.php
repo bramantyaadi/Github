@@ -7,7 +7,7 @@
 <body>
     <div class="login">
         <h1>Login</h1>
-        <form method="post" action="<?= site_url('site/cekLogin') ?>"> 
+        <form method="post" action="<?= site_url('site/berhasil') ?>"> 
             <input type="text" name="u" placeholder="Username" />
             <input type="password" name="p" placeholder="Password" />
             <button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
